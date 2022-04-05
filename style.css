@@ -1,0 +1,19 @@
+.container{
+	position: relative;
+	width: 75%;
+	margin: auto;
+	bottom: 10px;
+	background-color: blue;
+}
+
+
+.person {
+	width: 350px;
+	margin: 10px;
+
+}
+body{
+background-color: #2b2b2b;
+}
+
+
